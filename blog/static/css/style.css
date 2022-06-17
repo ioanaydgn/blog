@@ -1,0 +1,17 @@
+.card-img-top {
+    height: 170px;
+    object-fit: cover;
+}
+.card-body {
+    height:150px;
+}
+
+.post-date {
+    margin-bottom: 20px;
+}
+
+@media (max-width:767px) {
+    .container {
+        padding:0;
+    }
+}
